@@ -60,9 +60,9 @@ Dentro de este repositorio encontrarás los siguientes temas con notas realizada
 Dicho esto, espero que sea de utilidad para incursionarse al mundo de la programación. 
 
 # ¿Quieres comenzar? Empecemos instalando Python y un editor de texto!
-[Haz click en mí para aprender cómo instalar Python] (https://youtu.be/oR5aFns_xdw) 👻
+[Haz click en mí para aprender cómo instalar Python](https://youtu.be/oR5aFns_xdw) 👻
 
-[Haz click aquí para aprender cómo instalar SublimeText 3] (https://youtu.be/xo0ElsAIsV8) 🥞
+[Haz click aquí para aprender cómo instalar SublimeText 3](https://youtu.be/xo0ElsAIsV8) 🥞
 
-[Haz click aquí para ver cómo ejecutar tus códigos de Python (importante haber visto los anteriores vídeos)] (Link pendiente) 🥩
+[Haz click aquí para ver cómo ejecutar tus códigos de Python (importante haber visto los anteriores vídeos)](Link pendiente) 🥩
 
