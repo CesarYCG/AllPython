@@ -64,5 +64,5 @@ Dicho esto, espero que sea de utilidad para incursionarse al mundo de la program
 
 [Haz click aquí para aprender cómo instalar SublimeText 3](https://youtu.be/xo0ElsAIsV8) 🥞
 
-[Haz click aquí para ver cómo ejecutar tus códigos de Python (importante haber visto los anteriores vídeos)](Link pendiente) 🥩
+[Haz click aquí para ver cómo ejecutar tus códigos de Python (importante haber visto los anteriores vídeos)](https://youtu.be/_YIlw4xeqR8) 🥩
 
